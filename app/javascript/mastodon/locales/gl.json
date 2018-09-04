@@ -70,7 +70,7 @@
   "compose_form.lock_disclaimer": "A súa conta non está {locked}. Calquera pode seguila para ver as súas mensaxes só-para-seguidoras.",
   "compose_form.lock_disclaimer.lock": "bloqueado",
   "compose_form.placeholder": "Qué contas?",
-  "compose_form.publish": "Toot",
+  "compose_form.publish": "Awoo",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.marked": "Medios marcados como sensibles",
   "compose_form.sensitive.unmarked": "Os medios non están marcados como sensibles",

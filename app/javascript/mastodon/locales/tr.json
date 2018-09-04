@@ -70,7 +70,7 @@
   "compose_form.lock_disclaimer": "Hesabınız {locked} değil. Sadece takipçilerle paylaştığınız gönderileri görebilmek için sizi herhangi bir kullanıcı takip edebilir.",
   "compose_form.lock_disclaimer.lock": "kilitli",
   "compose_form.placeholder": "Ne düşünüyorsun?",
-  "compose_form.publish": "Toot",
+  "compose_form.publish": "Awoo",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.marked": "Media is marked as sensitive",
   "compose_form.sensitive.unmarked": "Media is not marked as sensitive",
